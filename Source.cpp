@@ -15,7 +15,7 @@ double f(double x, double y) {
 
 int main() {
 
-	int x, y;
+	double x, y;
 
 	std::cout << "Please enter 1st side of triangle : \n" << std::endl;
 	std::cin >> x;
